@@ -1,4 +1,6 @@
-# About this Specialization
+# BIG DATA Specialization : UNIVERSITY OF CALIFORNIA SAN DIEGO 
+
+## About this Specialization
 
 **Drive better business decisions with an overview of how big data is organized, analyzed, and interpreted. Apply your insights to real-world problems and questions.**
 
