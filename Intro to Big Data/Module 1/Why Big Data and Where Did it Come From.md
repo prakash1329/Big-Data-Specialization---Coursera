@@ -1,0 +1,392 @@
+#Why Big Data and Where Did it Come From?
+
+LATEST SUBMISSION GRADE
+82.45%
+
+**1.Question 1
+Which of the following is an example of big data utilized in action today?**
+
+
+Wi-Fi Networks
+
+
+**Social Media**
+
+
+The Internet
+
+
+Individual, Unconnected Hospital Databases
+
+Correct
+See this video for examples of this concept.
+
+1 / 1 point
+
+**What reasoning was given for the following: why is the "data storage to price ratio" relevant to big data?**
+
+
+Larger storage means easier accessibility to big data for every user because it allows users to download in bulk.
+
+
+Lower prices mean larger storage becomes easier to access for everyone, creating bigger amounts of data for client-facing services to work with.
+
+
+It isn't, it was just an arbitrary example of big data usage.
+
+
+**Companies can't afford to own, maintain, and spend the energy to support large data storage unless the cost is sufficiently low.**
+
+Incorrect
+See this video to review.
+
+0 / 1 point
+
+**3.Question 3
+What is the best description of personalized marketing enabled by big data?**
+
+
+Marketing to each customer on an individual level and suiting to their needs.
+
+
+**Being able to use personalized data from every single customer for personalized marketing needs.**
+
+
+Being able to obtain and use customer information for groups of consumers and utilize them for marketing needs.
+
+Correct
+See this video for examples of this concept.
+
+1 / 1 point
+
+**4.Question 4
+Of the following, which is an example of personalized marketing related with big data?**
+
+
+**Google ordering ads to show items based on recent and past search results.**
+
+
+News outlets gathering information from the internet in order to report them to the public.
+
+
+A survey that asks your age and markets to you a specific brand.
+
+Correct
+See this video for examples of this concept.
+
+1 / 1 point
+
+**5.Question 5
+What is the workflow for working with big data?**
+
+
+Extrapolation -> Understanding -> Reproducing
+
+
+**Big Data -> Better Models -> Higher Precision**
+
+
+Theory -> Models -> Precise Advice
+
+Correct
+See this video to review.
+
+1 / 1 point
+
+**6.Question 6
+Which is the most compelling reason why mobile advertising is related to big data?**
+
+
+Mobile advertising allows massive cellular/mobile texting to a wide audience, thus providing large amounts of data.
+
+
+**Mobile advertising benefits from data integration with location which requires big data.**
+
+
+Mobile advertising in and of itself is always associated with big data.
+
+
+Since almost everyone owns a cell/mobile phone, the mobile advertising market is large and thus requires big data to contain all the information.
+
+Correct
+See this video for examples of this concept.
+
+1 / 1 point
+
+**7.Question 7
+What are the three types of diverse data sources?**
+
+
+Machine Data, Map Data, and Social Media
+
+
+Sensor Data, Organizational Data, and Social Media
+
+
+**Machine Data, Organizational Data, and People**
+
+
+Information Networks, Map Data, and People
+
+Correct
+See this video to review.
+
+1 / 1 point
+
+**8.Question 8
+What is an example of machine data?**
+
+
+Sorted data from Amazon regarding customer info.
+
+
+**Weather station sensor output**.
+
+
+Social Media
+
+Correct
+See this video to review.
+
+1 / 1 point
+
+**9.Question 9
+What is an example of organizational data?**
+
+
+Satellite Data
+
+
+**Disease data from Center for Disease Control.**
+
+
+Social Media
+
+Correct
+See this video for examples of this concept.
+
+1 / 1 point
+
+**10.Question 10
+Of the three data sources, which is the hardest to implement and streamline into a model?**
+
+
+Machine Data
+
+
+**People**
+
+
+Organizational Data
+
+Correct
+See this video to review.
+
+1 / 1 point
+
+**11.Question 11
+Which of the following summarizes the process of using data streams?**
+
+
+**Integration -> Personalization -> Precision**
+
+
+Big Data -> Better Models -> Higher Precision
+
+
+Theory -> Models -> Precise Advice
+
+
+Extrapolation -> Understanding -> Reproducing
+
+Correct
+See this video to review.
+
+1 / 1 point
+
+**12.Question 12
+Where does the real value of big data often come from?**
+
+
+**Having data-enabled decisions and actions from the insights of new data.**
+
+
+Size of the data.
+
+
+Combining streams of data and analyzing them for new insights.
+
+
+Using the three major data sources: Machines, People, and Organizations.
+
+Incorrect
+See this video to review.
+
+0 / 1 point
+
+**13.Question 13
+What does it mean for a device to be "smart"?**
+
+
+**Collect data and services autonomously.**
+
+
+Having a specific processing speed in order to keep up with the demands of data processing.
+
+
+Must have a way to interact with the user.
+
+Correct
+See this video to review.
+
+1 / 1 point
+
+**14.Question 14
+What does the term "in situ" mean in the context of big data?**
+
+
+The sensors used in airplanes to measure altitude.
+
+
+Accelerometers.
+
+
+In the situation
+
+
+**Bringing the computation to the location of the data.**
+
+Correct
+See this video to review.
+
+1 / 1 point
+
+**15.Question 15
+Which of the following are reasons mentioned for why data generated by people are hard to process? Choose all that apply.**
+
+
+**Very unstructured data.**
+
+Correct
+See this video to review.
+
+
+**The velocity of the data is very high.**
+
+Correct
+See this video to review.
+
+
+They cannot be modeled and stored.
+
+
+**Skilled people to analyze the data are hard to come by.**
+
+Correct
+See this video to review.
+
+1 / 1 point
+
+**16.Question 16
+What is the purpose of retrieval and storage; pre-processing; and analysis in order to convert multiple data sources into valuable data?**
+
+
+Since the multi-layered process is built into the Neo4j database connection.
+
+
+To enable ETL methods.
+
+
+**To allow scalable analytical solutions to big data.**
+
+
+Designed to work like the ETL process.
+
+Correct
+See this video to review.
+
+1 / 1 point
+
+**17.Question 17
+Which of the following are benefits of organization-generated data? Choose all that apply.**
+
+
+**Higher Sales**
+
+Correct
+See this video to review.
+
+
+**Customer Satisfaction**
+
+Correct
+See this video to review.
+
+
+High Velocity
+
+
+**Improved Safety**
+
+Correct
+See this video to review.
+
+
+**Better Profit Margins**
+
+Correct
+See this video to review.
+
+1 / 1 point
+
+**18.Question 18
+What are data silos and why are they bad?**
+
+
+A giant centralized database to house all the data produces within an organization. Bad because it is hard to maintain as highly structured data.
+
+
+**A giant centralized database to house all the data production within an organization. Bad because it hinders opportunity for data generation.**
+
+
+Highly unstructured data. Bad because it does not provide meaningful results for organizations.
+
+
+Data produced from an organization that is spread out. Bad because it creates unsynchronized and invisible data.
+
+Incorrect
+See this video to review.
+
+0 / 1 point
+
+**19.Question 19
+Which of the following are benefits of data integration? Choose all that apply.**
+
+
+Adds value to big data.
+
+
+**Increase data availability.**
+
+Correct
+See this video to review.
+
+
+Monitoring of data.
+
+
+**Reduce data complexity.**
+
+Correct
+See this video to review.
+
+
+**Increase data collaboration.**
+
+Correct
+See this video to review.
+
+
+Unify your data system.
+
+You didn’t select all the correct answers
