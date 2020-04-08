@@ -1,7 +1,7 @@
-#Why Big Data and Where Did it Come From?
+# Why Big Data and Where Did it Come From?
 
-LATEST SUBMISSION GRADE
-82.45%
+####LATEST SUBMISSION GRADE
+#####82.45%
 
 **1.Question 1
 Which of the following is an example of big data utilized in action today?**
