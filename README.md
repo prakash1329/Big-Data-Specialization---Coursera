@@ -1,4 +1,4 @@
-# BIG DATA Specialization : UNIVERSITY OF CALIFORNIA SAN DIEGO 
+# Big Data Specialization : University Of California San Diego 
 
 ## About this Specialization
 
