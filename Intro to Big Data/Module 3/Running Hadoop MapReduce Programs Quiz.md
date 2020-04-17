@@ -16,3 +16,4 @@ The set of example MapReduce applications includes wordmedian, which computes th
 Note that wordmedian prints the median length to the terminal at the end of the MapReduce job; the output file does not contain the median length.
 
 Enter a number: **4**
+ 
